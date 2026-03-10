@@ -1,0 +1,11 @@
+{
+  "name": "vc-platform-ui",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.0.0",
+    "@jitsi/react-sdk": "^3.0.0"
+  }
+}
